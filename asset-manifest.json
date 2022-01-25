@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/edvora-assesment/static/css/main.81ee8768.css",
+    "main.js": "/edvora-assesment/static/js/main.f27b15c9.js",
+    "static/js/787.23c83b66.chunk.js": "/edvora-assesment/static/js/787.23c83b66.chunk.js",
+    "static/media/logo.svg": "/edvora-assesment/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/edvora-assesment/index.html",
+    "main.81ee8768.css.map": "/edvora-assesment/static/css/main.81ee8768.css.map",
+    "main.f27b15c9.js.map": "/edvora-assesment/static/js/main.f27b15c9.js.map",
+    "787.23c83b66.chunk.js.map": "/edvora-assesment/static/js/787.23c83b66.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.81ee8768.css",
+    "static/js/main.f27b15c9.js"
+  ]
+}
